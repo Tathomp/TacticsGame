@@ -1,0 +1,38 @@
+Introduction
+	Tactical Stragey game
+		Fire emblem and Final Fantasy Tactics Advanced 			Influences
+	Working on it for about 9 months now
+	
+Cinematic
+	Relationships and cutscenes
+	Choices
+		Set Flags
+		Trigger Events (in battle)
+		Play other cutscenes
+Starting a battle
+	Place Actors
+	Inspect Objectives
+	
+Battle
+	Turn order
+		Not super happy about the implementaiton here
+		Speed rating determines how often you can move
+		Problem: Not actually predicitive
+		In the future: make the turn system modular? (so 			something like fire emblem)
+	AI
+		Very brute force rn
+			-Buffs Self
+			-Summons units
+			-Damange enemies
+			-Heal allies
+			-A system to weigh how valueable it is to 				damage allies when it will also hurt 				enemies
+	Player turn
+		
+
+	Misc
+		-Events
+			
+		-Map Enchantments
+
+Justic 
+		

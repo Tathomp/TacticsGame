@@ -1,0 +1,308 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SearchIndexes Version="1.0">
+    <Documents>
+        <Document ID="3"/>
+        <Document ID="4">
+            <Title>Classes</Title>
+            <Text>Base Classes:
+
+Warden - melee physical
+Wayfarer - ranged physical
+Acolyte - ranged magical 
+Mystic/Oracle/OmenSpeaker - Support Magical (buffs)
+Cut Throat - melee dex
+Engineer - Utility/Pets (Pistols)
+Esper - Utility mental magic
+
+Adv Classes:
+
+Rune-Blade/Arcane Blade (Req Warden, Acolyte) - Lots of self buffs
+Specter/Revenant/Ghost (Req Acolyte, Engineer) - Ranged, Physical and Magical 
+Stargazer (Req Mystic) - Magical Utility (delayed/predict abilities)
+Priest/Bishop (Req Mystic)- Support Magical (healing)
+Paladin/Zealot ( Req Priest, Warden) - Support, Melee (Protect party members)
+Cosmic/Celestial Thrall (Req Stargazer) - Trippy Magical Stuff (mind control)/Chtulu shit
+Invoker/Summoner (Req Acolyte, Mystic) - Summones Temp Minions
+Necromancer (Quest Reward) - Summons skeletons, revive idk, dark magic
+Pharmasit (Req Engineer, Mystic)- Improved Buffs
+Pilot (Req Engineer?) - Mech pilot (Gaurdian - tank, Changdao - dps, healer, Marionette - puppet master)
+
+Pilgrim (liturgy)
+Psychotropper/Psychonaut
+Inquister
+Scholar
+Brooker
+Scrivener
+Reaver 
+Gutter Punk
+Cryptoshaman
+DJ/Performer/ICON
+Chronicler
+Chaos Magi</Text>
+        </Document>
+        <Document ID="5">
+            <Title>Specter</Title>
+            <Text>
+To Unlock:
+	A few black magic skills
+	A few gun skills </Text>
+        </Document>
+        <Document ID="6">
+            <Title>Template</Title>
+            <Text>Name: 		
+Skill Classifications: 	
+Specialties:		
+Basic Idea/Flavor: 	
+To Unlock:		</Text>
+        </Document>
+        <Document ID="7">
+            <Title>Tables</Title>
+            <Text>
+
+Range
+Warrior
+Dex
+Elemental Magic
+Dark
+Holy
+Range
+
+
+
+
+
+
+Warrior
+
+
+
+
+
+
+Dex
+
+
+
+
+
+
+Elemental
+
+
+
+
+
+
+Dark
+
+Specter
+
+
+
+
+Holy
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Name
+Range
+
+Warrior
+
+Dex
+
+Elemental
+
+Dark
+
+Holy
+
+
+</Text>
+        </Document>
+        <Document ID="8">
+            <Title>Reaver</Title>
+            <Text>Name: Reaver 
+Skill Classifications: Sow Blood
+Specialties: Blood Magic? Warrior Stuff Maybe some psychological stuff
+Basic Idea/Flavor: </Text>
+        </Document>
+        <Document ID="9">
+            <Title>Characters</Title>
+        </Document>
+        <Document ID="10">
+            <Title>Brainstorm</Title>
+            <Text>Mission: Hellbreak
+	Rescue dead characters from hell level
+
+A character that’s like a pilgrim/prophet
+Looks for ‘chosen one’ or some shit.
+Chosen one kinda sucks
+
+Chosen one and pilgrim’s quests makes chosen cooler or something idk
+
+Character quest
+	Two girls fighting doing duos in an area type thing
+
+Necromancer Detective
+	Using necromancy to solve mysteries and shit
+
+TileType
+	Mana Battery
+	Boost magic when standing on it
+	When destroyed, does damage in a 2 square raidus</Text>
+        </Document>
+        <Document ID="11">
+            <Title>Campaign Notes</Title>
+            <Text>Campaign Notes
+Main Story
+
+Characters start out working for a second hand book store call Babel’s Books/Babel’s Archieves/Something like that
+Go on missions to reclaim artifacts/books/shit for the store
+
+Act two begins with the collection of some subtly evil artifact that corrupts the store owner pittying him against the player
+
+Act Three is the player resolving this through battling/Killing the store owner or fighting through a bunch of tough misisons to cure him or something
+
+I like the idea of a rival in act one, basically setting the expectation as a bad guy but teams up with the good guys when things start to get real
+
+The Broker - the main bad guy? Pulling strings from behind the scenes</Text>
+        </Document>
+        <Document ID="12">
+            <Title>Brainstorm</Title>
+            <Text>Company Names
+	Ferverant Revival
+	Digital Illusions
+	Nightdrive Studios
+	Virtual Crimes
+
+Avatars
+	The Grim Muse
+		Occult Artist Stuff
+		Occult Rock Group IDk
+
+Concocting 	</Text>
+        </Document>
+        <Document ID="13">
+            <Title>Quest Ideas</Title>
+            <Text>A Kingdom of Her Own
+	Princess defying parents</Text>
+        </Document>
+        <Document ID="14">
+            <Title>Million Eyed Beast</Title>
+            <Text>Init: Sprawling Town of happy propsperous ppl
+Brainwashed by demon or warlock or something</Text>
+        </Document>
+        <Document ID="15">
+            <Title>WorldBuilding</Title>
+        </Document>
+        <Document ID="16">
+            <Title>Setup</Title>
+            <Text>Post war society
+- The good guys won
+	But some stuff sill sucks
+	Death of idealism
+- New Government tasks you with finidng some shit from the old emperor/king bc those relics store his soul maybe?
+	Or will be used to revive him? Or are a ralling cry for his supporters
+-Maybe new goverment sucks or you fight the sould of the old emperor or soemthing idk</Text>
+        </Document>
+        <Document ID="17">
+            <Title>MainQuest</Title>
+        </Document>
+        <Document ID="18">
+            <Title>Templates</Title>
+        </Document>
+        <Document ID="19">
+            <Title>MissionTemplate</Title>
+            <Text>Mission Name:
+Goal:
+Story:
+Cutscene:</Text>
+        </Document>
+        <Document ID="20">
+            <Title>MissionTemplate</Title>
+            <Text>Mission Name: Orientation
+Goal: Tutorial. Train new character/player
+Story: Babel hires a newbie to help with the book store. 
+Cutscene:</Text>
+        </Document>
+        <Document ID="21"/>
+        <Document ID="22">
+            <Title>StoryBeats (Main)</Title>
+            <Text>Setting: Sci-Fantasy
+Setup:
+	Post-revolution society. A really oppressive faction has just been disposed. Are heroes are hired by the government to recover lost culture
+Factions:	</Text>
+        </Document>
+        <Document ID="23">
+            <Title>StoryBeats (Side)</Title>
+        </Document>
+        <Document ID="24">
+            <Title>SKil Idea</Title>
+            <Text>Astral Projection - ‘body’ cant move or act. Summons a spirit copy of unit that can use abilities and is super weak? Immune to physical attacks?</Text>
+        </Document>
+        <Document ID="25">
+            <Title>MLM Cult</Title>
+        </Document>
+        <Document ID="26">
+            <Title>Architecture</Title>
+            <Text>//////////////////////////////////////////////////////////
+///// Content Library Shouldn’t be mutable at Runtime ////
+////  This is probably an important idea	             ////
+//////////////////////////////////////////////////////////
+
+When players start a new game:
+-Select a campaign
+-SavedData is created
+	-Selected Campaign Data
+	-Player’s party
+
+Campaign
+
+-Content Library
+-Player’s Party
+
+
+Content Library
+-just filepaths to the apporiate database?
+
+Databases
+-Maps
+-Missions
+-Items
+-Abilities
+-Buffs
+-TileEffects
+-TileTypes
+-ActorData
+-Jobs
+-Ability Tress?
+
+Maps
+-TileTypes[x,y]
+-TileEffects[x,y]
+-BitMap int[x,y]
+
+TileTypes
+-category
+-properties
+-travel properties
+
+Tile(Monobehvoir)
+-Reads bitmap value to determin sprite</Text>
+        </Document>
+    </Documents>
+</SearchIndexes>

@@ -1,0 +1,30 @@
+// Core engine
+-list of quest on world map, clicking it show the node where that quest is avaliable
+-buttons to bring up the party, menu, etc
+-moveable camera on world map and board
+
+
+// bug type things //
+
+-redrict buff doesn't change animation target, do we care? probably.
+
+-leave character info
+-make sure the ui for switching jobs actually works
+ --Map Editor-- types dont disappear
+
+
+// Content Components //
+-event to add objective to mission
+
+
+//Finished
+-Mission objectives bugged >>>
+-Name campaign/display name
+-survive for X amount of turns mission objective
+-display global turn
+-reposition dialog box
+-redirct buff can be stacked in weird ways
+	-should unapply guarded when guard ally is applied
+-reward display at end of mission cuts off
+-remove traits when jobs are switched
+-text scroll in cutscenes

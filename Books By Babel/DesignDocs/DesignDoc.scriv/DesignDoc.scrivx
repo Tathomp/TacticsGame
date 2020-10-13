@@ -1,0 +1,305 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ScrivenerProject Template="No" Version="1.5" Creator="SCRWIN-1.9.8.0" Device="LAPTOP-T2SQ19IC" Modified="2018-07-23 09:42:53 -0500" ModID="96275171-0C79-469D-8F5A-3439A23FED33">
+    <Binder>
+        <BinderItem ID="0" UUID="2D854F90-9440-4085-B7D7-536645C8DF88" Created="2018-02-24 19:36:56 -0500" Modified="2018-02-24 19:36:56 -0500" Type="DraftFolder">
+            <Title>Draft</Title>
+            <MetaData>
+                <IncludeInCompile>Yes</IncludeInCompile>
+            </MetaData>
+            <Children>
+                <BinderItem ID="11" UUID="5AFA6A7F-49AF-4F5A-8885-276015BD9A79" Created="2018-03-30 19:57:33 -0500" Modified="2018-07-23 09:42:49 -0500" Type="Text">
+                    <Title>Campaign Notes</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>701,0</TextSelection>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="4" UUID="29A14F7E-D878-46A8-B31B-B18889E5706E" Created="2018-02-24 19:37:11 -0500" Modified="2018-06-02 08:34:46 -0500" Type="Folder">
+                    <Title>Classes</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="9" UUID="50197F47-D406-44EA-B7DC-D060DEDC6122" Created="2018-02-28 18:17:31 -0500" Modified="2018-05-14 18:01:24 -0500" Type="Folder">
+                    <Title>Characters</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                    <Children>
+                        <BinderItem ID="10" UUID="5F5B1BDC-DAEC-485C-944C-DD0C124BC8CA" Created="2018-02-28 18:17:40 -0500" Modified="2018-07-19 17:49:54 -0500" Type="Text">
+                            <Title>Brainstorm</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>9,0</TextSelection>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+                <BinderItem ID="12" UUID="8F1BAA51-9311-4E5E-AC60-E565A810ACDC" Created="2018-05-14 14:57:52 -0500" Modified="2018-06-01 21:01:58 -0500" Type="Text">
+                    <Title>Brainstorm</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>171,0</TextSelection>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="13" UUID="82ED4A3A-EDAB-4535-9417-FDC85F1D4381" Created="2018-05-14 14:59:23 -0500" Modified="2018-07-22 13:50:18 -0500" Type="Folder">
+                    <Title>Quest Ideas</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                    <Children>
+                        <BinderItem ID="14" UUID="DA10A396-C846-4606-8C2C-A7F56E2701BD" Created="2018-05-14 14:59:32 -0500" Modified="2018-05-14 18:01:24 -0500" Type="Text">
+                            <Title>Million Eyed Beast</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>90,0</TextSelection>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="25" UUID="35CE52CD-16D2-486C-BF8F-D1DBF5CEAF52" Created="2018-07-19 07:47:22 -0500" Modified="2018-07-19 07:47:33 -0500" Type="Text">
+                            <Title>MLM Cult</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+                <BinderItem ID="15" UUID="995E56D9-B297-486A-9973-F8832A494DBD" Created="2018-05-22 08:33:31 -0500" Modified="2018-05-22 08:33:35 -0500" Type="Folder">
+                    <Title>WorldBuilding</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                    <Children>
+                        <BinderItem ID="16" UUID="CD397D11-0585-483D-A339-4C93117FBF05" Created="2018-05-22 08:33:39 -0500" Modified="2018-05-22 13:22:22 -0500" Type="Text">
+                            <Title>Setup</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                                <FileExtension>rtf</FileExtension>
+                            </MetaData>
+                            <TextSettings>
+                                <TextSelection>354,0</TextSelection>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="22" UUID="F57665E8-F279-4BBA-9509-CB784A80EC72" Created="2018-05-22 13:39:17 -0500" Modified="2018-05-22 14:08:30 -0500" Type="Text">
+                            <Title>StoryBeats (Main)</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                        </BinderItem>
+                        <BinderItem ID="17" UUID="92E7FCC2-15DE-4349-A13A-3C53E88D088C" Created="2018-05-22 13:22:35 -0500" Modified="2018-05-22 13:22:41 -0500" Type="Folder">
+                            <Title>MainQuest</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                            <Children>
+                                <BinderItem ID="20" UUID="EED832B3-6D99-488C-AD4D-D99FD2BEC2E2" Created="2018-05-22 13:36:25 -0500" Modified="2018-05-22 13:37:33 -0500" Type="Text">
+                                    <Title>MissionTemplate</Title>
+                                    <MetaData>
+                                        <IncludeInCompile>Yes</IncludeInCompile>
+                                    </MetaData>
+                                    <TextSettings>
+                                        <TextSelection>126,0</TextSelection>
+                                        <Target Type="Words">0</Target>
+                                    </TextSettings>
+                                </BinderItem>
+                            </Children>
+                        </BinderItem>
+                        <BinderItem ID="23" UUID="8303B905-45AA-4B43-904D-E623D6B9AF0E" Created="2018-05-22 13:39:56 -0500" Modified="2018-05-22 13:40:01 -0500" Type="Folder">
+                            <Title>StoryBeats (Side)</Title>
+                            <MetaData>
+                                <IncludeInCompile>Yes</IncludeInCompile>
+                            </MetaData>
+                            <TextSettings>
+                                <Target Type="Words">0</Target>
+                            </TextSettings>
+                        </BinderItem>
+                    </Children>
+                </BinderItem>
+                <BinderItem ID="24" UUID="C949026B-9763-4B81-A2CC-27822E108051" Created="2018-06-01 14:57:24 -0500" Modified="2018-06-01 14:59:06 -0500" Type="Text">
+                    <Title>SKil Idea</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>144,0</TextSelection>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="26" UUID="D1548391-1EBC-447C-B3A6-BBCCFDDA97B4" Created="2018-07-19 17:50:24 -0500" Modified="2018-07-20 21:48:57 -0500" Type="Folder">
+                    <Title>Architecture</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                </BinderItem>
+            </Children>
+        </BinderItem>
+        <BinderItem ID="1" UUID="AD6E21C6-3207-4592-89EE-87927D2F2816" Created="2018-02-24 19:36:56 -0500" Modified="2018-02-24 19:36:56 -0500" Type="ResearchFolder">
+            <Title>Research</Title>
+            <MetaData>
+                <IncludeInCompile>Yes</IncludeInCompile>
+            </MetaData>
+        </BinderItem>
+        <BinderItem ID="2" UUID="C7850E2F-4F2D-4E23-B234-3C8BE37BEAB3" Created="2018-02-24 19:36:56 -0500" Modified="2018-02-24 19:36:56 -0500" Type="TrashFolder">
+            <Title>Trash</Title>
+            <MetaData>
+                <IncludeInCompile>Yes</IncludeInCompile>
+            </MetaData>
+            <Children>
+                <BinderItem ID="3" UUID="5E04B45C-3A48-415A-8422-B63D9217DC65" Created="2018-02-24 19:36:56 -0500" Modified="2018-05-14 18:01:25 -0500" Type="Text">
+                    <Title></Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="5" UUID="0717BEC9-0613-4E02-9778-D9E2F08BAA99" Created="2018-02-24 19:37:25 -0500" Modified="2018-05-14 19:22:04 -0500" Type="Text">
+                    <Title>Specter</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,170</TextSelection>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="8" UUID="AA3C88A5-44C2-4783-BE90-CB0DAA341874" Created="2018-02-24 19:56:24 -0500" Modified="2018-05-14 18:01:24 -0500" Type="Text">
+                    <Title>Reaver</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                        <FileExtension>rtf</FileExtension>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>117,0</TextSelection>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="6" UUID="334ADAF8-3F67-42B6-92F8-0F6F544B0FA3" Created="2018-02-24 19:40:03 -0500" Modified="2018-05-14 18:01:24 -0500" Type="Text">
+                    <Title>Template</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>0,63</TextSelection>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="7" UUID="665D686C-5497-4EA6-A06B-45050710F1C4" Created="2018-02-24 19:45:24 -0500" Modified="2018-05-14 18:01:24 -0500" Type="Text">
+                    <Title>Tables</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>157,0</TextSelection>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                </BinderItem>
+                <BinderItem ID="21" UUID="E2F7386E-1416-4BE8-9DB9-914B1E763DCB" Created="2018-05-22 13:38:58 -0500" Modified="2018-05-22 13:39:47 -0500" Type="Text">
+                    <Title></Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                </BinderItem>
+            </Children>
+        </BinderItem>
+        <BinderItem ID="18" UUID="87A64386-2116-48B6-B5E5-51BCDDADCA8A" Created="2018-05-22 13:35:16 -0500" Modified="2018-05-22 13:35:28 -0500" Type="Folder">
+            <Title>Templates</Title>
+            <MetaData>
+                <IncludeInCompile>Yes</IncludeInCompile>
+            </MetaData>
+            <TextSettings>
+                <Target Type="Words">0</Target>
+            </TextSettings>
+            <Children>
+                <BinderItem ID="19" UUID="88DF3F48-89A0-4886-8B57-78B41CC38AE8" Created="2018-05-22 13:35:39 -0500" Modified="2018-05-22 13:36:02 -0500" Type="Text">
+                    <Title>MissionTemplate</Title>
+                    <MetaData>
+                        <IncludeInCompile>Yes</IncludeInCompile>
+                    </MetaData>
+                    <TextSettings>
+                        <TextSelection>13,0</TextSelection>
+                        <Target Type="Words">0</Target>
+                    </TextSettings>
+                </BinderItem>
+            </Children>
+        </BinderItem>
+    </Binder>
+    <LabelSettings>
+        <Title>Label</Title>
+        <DefaultLabelID>-1</DefaultLabelID>
+        <Labels>
+            <Label ID="-1">No Label</Label>
+            <Label ID="0" Color="0.752941 0.752941 1.000000">Concept</Label>
+            <Label ID="1" Color="1.000000 0.752941 0.752941">Chapter</Label>
+        </Labels>
+    </LabelSettings>
+    <StatusSettings>
+        <Title>Status</Title>
+        <DefaultStatusID>-1</DefaultStatusID>
+        <StatusItems>
+            <Status ID="-1">No Status</Status>
+            <Status ID="0">N/A</Status>
+            <Status ID="1">To Do</Status>
+            <Status ID="2">First Draft</Status>
+            <Status ID="3">Revised Draft</Status>
+            <Status ID="4">Final Draft</Status>
+            <Status ID="5">Done</Status>
+        </StatusItems>
+    </StatusSettings>
+    <TemplateFolderUUID>87A64386-2116-48B6-B5E5-51BCDDADCA8A</TemplateFolderUUID>
+    <ProjectTargets>
+        <DraftTarget Type="Words" CountIncludedOnly="No" CurrentCompileGroupOnly="No">0</DraftTarget>
+        <SessionTarget Type="Words" CountDraftOnly="No" AllowNegatives="No" ResetType="Midnight" DeterminedFromDeadline="No" CanWriteOnDeadlineDate="Yes" WritingDays="">0</SessionTarget>
+        <PreviousSession Words="12" Characters="71" Date="2018-07-23 09:33:29 -0500"/>
+    </ProjectTargets>
+    <Collections>
+        <Collection Type="Binder" ID="9BE690CB-8B17-4FEA-83A9-4F23F5B5B923" Color="0.901961 0.917647 0.933333">
+            <Title>Binder</Title>
+        </Collection>
+        <Collection Type="RecentSearch" ID="CA60326A-3358-4E88-8F1B-5A5E5251C0FA" Color="0.901961 0.901961 0.980392">
+            <Title>Search Results</Title>
+            <SearchSettings Operator="Exact" Type="All" Scope="All" CompileSetting="All" CaseSensitive="No"></SearchSettings>
+        </Collection>
+    </Collections>
+    <PrintSettings PaperType="Letter" LeftMargin="8.98584" RightMargin="8.98584" TopMargin="8.98584" BottomMargin="8.98584" Orientation="Portrait" Collates="No" ReverseOrder="No"/>
+</ScrivenerProject>

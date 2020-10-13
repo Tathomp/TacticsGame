@@ -1,0 +1,99 @@
+﻿Campagin
+	Base
+
+	World Map
+
+	Missions
+		Main Quest
+		Side Quests
+
+	Quest Types
+		Survive for x-turns
+		Escape the map
+		Kill All enemies
+		Kill certain enemy
+		Destroy a certain tile
+		
+	Levels
+		Player spawn tile
+		Enemy spawn tiles
+
+	Triggers?
+
+	Cut-Scenes
+		Panel dialogue
+		In map scene
+	Dialog
+
+
+
+Actors
+	ActorData
+	Gameobject
+	Race
+	StatsContainer
+	PrimaryClass
+	SecondaryClass
+	Inventory
+	Equipments
+	Buffs
+	Debuffs
+	Abilities?
+		Tied to class?
+
+Race
+	restricts class options
+	stat growth
+
+StatsContainer
+	Max Stats
+	Current Stats
+
+Class
+	current ap (used to buy new abilities)
+	stat growth per level up (only apples to primary class)
+	General tree, two specialized trees? 4 abilities per tree
+	Equipment restrictions
+
+Abilities
+	name
+	cost
+	target type
+	value (dmg, heal, etc)
+	effects
+		this is will composition based
+
+	Types
+		Single Target
+		Aoe
+		Entire Map
+		Weird lines
+			stright line, arc, cone, etc
+		Damage
+		healing
+		buff
+		debuff
+		positional changes
+		tile changes
+
+Inventory
+	5 slots per charact
+	accessible in base or during mission
+
+Equipment
+	Slots
+		Head
+		Main Hand
+		Off hand
+		Armor
+		Gloves
+		Boots
+		Accessory
+
+Buff Container
+	List of Temporary Effects
+
+
+Item
+	Consumable
+	Equipable

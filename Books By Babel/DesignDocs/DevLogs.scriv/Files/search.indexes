@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SearchIndexes Version="1.0">
+    <Documents>
+        <Document ID="5F105607-29F3-4206-9D50-96FF10812CCB">
+            <Title>Episode 1 - Draft2</Title>
+            <Text>The first time I ever felt like something was made /exactly/ for me was when I played Final Fantasy Tactics Advance. Snowball fights, cozy winter days, and escapism through cursed fantasy books - what’s not to love! This was also my introduction to the Tactical RPG genre that led me to Fire Emblem, Tactics Orge, Advance Wars and a weird Yuyu Hakuso game that I remember being really fun but there’s no way I’m going to play it again to find out if it holds up[Show wiki reception screen here]. 
+
+I was obessed with the complicated characters and intense strategic battles [Final Fantasy double cast summon]. More than anyting, I loved feeling like I could play the games /my way/. I think most people who played these games would swear to you that they and they alone knew about the best combination of characters and abilities. I mean
+
+I think it only makes sense that I’d one day make my own Tactical RPG. So, without further ado, welcome to the first dev log for my game - Books by Babel.
+
+</Text>
+        </Document>
+        <Document ID="7DADCC3D-4FBC-44F4-81D8-45D0789BE4EC">
+            <Title>Episode 1 - Outline</Title>
+            <Text>-Intro
+	- Inspriation
+		- Fire Emblem
+-Play Through
+ 	- New Campaign
+		- Data drive archieture
+			- Campaign files
+		- Modifiers
+			- Permadeath
+			- Bonus Rewards
+			- These can also be used to make things harder
+			- IN THE FUTURE - Buffs and debuffs that are applied to the party and enemies
+			- 
+	- Area Map
+		- Shops
+		- Locations Nodes
+			- Shops
+			- Taverns
+			- Traveling to other world maps
+			- Investigation (TODO)
+				- Random Events
+	- Cutscenes
+		- Actions
+			- Movement
+			- Dialogs
+			- Choices
+			- Use abilities
+
+	- Combat
+		- Objectives
+		- Rewards
+
+	- Creation Suite
+		-Fully Featured
+			- The Main campaign is fully designed in the creation 						manager
+		-Map Editor
+			- Draw Mode
+			- Fill Mode
+			- Size and rename</Text>
+        </Document>
+        <Document ID="C79E0A2B-8763-4D8D-909C-3F749B2047F8">
+            <Title>Episode 1 - Script</Title>
+            <Text>
+Inrto
+[Whats our scene here?]
+[Stock footage of the games I mention?]
+The first time I ever felt like something was made /exactly/ for me was when I played Final Fantasy Tactics Advance. Snowball fights, cozy winter days, and escapism through cursed fantasy books - what’s not to love! This was also my introduction to the Tactical RPG genre that led me to Fire Emblem, Tactics Orge, Advance Wars and a weird Yuyu Hakuso game that I remember being really fun but there’s no way I’m going to play it again to find out if it holds up[Show wiki reception screen here]. 
+
+I was obessed with the complicated characters and intense strategic battles [Final Fantasy double cast summon]. More than anyting, I loved feeling like I could play the games /my way/. I think most people who played these games would swear to you that they and they alone knew about the best combination of characters and abilities. I mean
+
+I think it only makes sense that I’d one day make my own Tactical RPG. So, without further ado, welcome to the first dev log for my game - Books by Babel.
+
+Main Menu:
+
+For this video, I’m just going to do a quick play through to demonstrat some of the sytems and features that have been developed so far. This would be a good time to say that all the UI and art and, well everything, is temporay and for testing purposes only. For example: many of the spells and ablities in the game are just a mixture of different effects. Like say, I don’t know… A fireball that, summons skeletons, teleports the caster and leaves of a patch of ice where the caster use to be. [Do a click of some stupid effect here.] [List out the effects on the screen].
+
+The first thing you do is click the “New Campaign” button. This brings up a list of campaigns avaliable to play as well as a brief description about the selected campaign. To the right, there is also a menu that allow the player  adjust some diffuculty settings for the campaign. 
+
+World Map:
+
+	When we start a new campaign players will either be dropped into the initial area map or face and introduction cutscene played. We’ll talk more abut cutscenes in a bit. On the world map we get list of quests we currently have active, a little info about the tile we’re currently on and a menu listing everything currently at a location. Currently you visit shops, bars, travel to new areas and do missions.
+
+The UI for the tavern is /espeically/ bad in it’s current state so we’re going to skip that for now. The shop UI is a bit more presentable. This is the buy panel. One thing I really wanted to try and do is surface more of the relevant information that is usually missing from shop interfaces. A big thing was showing the player what improvements a particular item would have on every character. I’m sure there’s a more elegant way to solve this problem.
+
+The sell panel is pretty similar. It just shows the player where an item is located, such as in the party’s inventory or equipped to a partifular character.
+
+Let’s try a mission now! The mission info panel shows the name and the rewards for completing this mission. It doesn’t show the main or side objectives currently, though. There are also ‘secret’ objectives for some missions but those, obviously, aren’t shown here either. You can also see the variety of rewards the player can recieve including xp, jop points, money, and even new characters.
+
+As I mentioned earleir, cutscenes can show in a variety of places. [List on screen: Before the campaign, before mission, during missions, after missions, after campaigns]. This test cutscene is triggered by starting this test mission. There are quite a few things that can happen during cutscenes. [Show a list that: Actor movements, actor spawns, tile changes, skill animations play, music and sfx triggers, dialog, choices].
+
+This cutscene is super simple: Just a few actors that move around and say a few lines of dialog before we head into the fight.
+
+The player is now dumped into the combat scene. In the top left we have the list of objectives. As I mentioned earlier, 
+
+Combat:
+
+</Text>
+        </Document>
+    </Documents>
+</SearchIndexes>

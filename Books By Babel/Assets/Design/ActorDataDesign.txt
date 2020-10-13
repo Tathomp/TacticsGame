@@ -1,0 +1,10 @@
+﻿
+
+Maps
+	Interactive tiles
+		Tiles have health?
+			When a tree tile hits 0 it becomes a grass tile?
+		List Attributes
+			Flammable
+			soak unit
+			idk

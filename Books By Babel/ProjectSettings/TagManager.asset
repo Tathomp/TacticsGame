@@ -1,0 +1,73 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags: []
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Tile
+    uniqueID: 1335315229
+    locked: 0
+  - name: TileSelection
+    uniqueID: 791793127
+    locked: 0
+  - name: MapSelection
+    uniqueID: 3576422527
+    locked: 0
+  - name: Actor
+    uniqueID: 3857487089
+    locked: 0
+  - name: WorldMapTile
+    uniqueID: 2353060175
+    locked: 0
+  - name: WorldLineTile
+    uniqueID: 2431314349
+    locked: 0
+  - name: WorldLocation
+    uniqueID: 3611775005
+    locked: 0
+  - name: WorldMapQuestIcon
+    uniqueID: 93287243
+    locked: 0
+  - name: WordMapSelector
+    uniqueID: 4290871307
+    locked: 0
+  - name: WorldAvatar
+    uniqueID: 2565255371
+    locked: 0

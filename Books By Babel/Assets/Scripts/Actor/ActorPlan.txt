@@ -1,0 +1,14 @@
+﻿Actor - Monobehavior
+	
+
+//Binary Serialiables
+ActorData - an individual actors current data
+	Contains CurrRace and Job and stats etc
+
+//Json Files
+Class Data Model
+Race Data Model
+Character Definition Model
+	Special Characters
+	Filler Characters
+	

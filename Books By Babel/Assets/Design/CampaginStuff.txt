@@ -1,0 +1,15 @@
+﻿Campaign
+
+Main Quest Chain
+Side Quest Chain
+One-off quests
+
+Cut-Scenes
+Dialog
+
+Special Characters
+Pool of random characters
+Pool of Items
+Pool of Monsters
+
+Quests 

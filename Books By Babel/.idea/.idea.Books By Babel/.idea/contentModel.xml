@@ -1,0 +1,616 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Projects\GameDev\booksbybabel\Books By Babel" t="IncludeRecursive">
+      <e p="Assembly-CSharp.csproj" t="IncludeRecursive" />
+      <e p="Assets" t="Include">
+        <e p="ColorDatabase.cs" t="Include" />
+        <e p="ColorDatabaseEntry.cs" t="Include" />
+        <e p="Design" t="Include">
+          <e p="ActorDataDesign.txt" t="Include" />
+          <e p="Brainstorm.txt" t="Include" />
+          <e p="CampaginStuff.txt" t="Include" />
+          <e p="ClassStructure.txt" t="Include" />
+        </e>
+        <e p="Imported" t="Include">
+          <e p="PixelPerfectCamera" t="Include">
+            <e p="background_art_license.txt" t="Include" />
+            <e p="README.txt" t="Include" />
+            <e p="Scripts" t="Include">
+              <e p="CanvasScreenSpaceScaler.cs" t="Include" />
+              <e p="CanvasWorldScaler.cs" t="Include" />
+              <e p="Internal" t="Include">
+                <e p="VectorSwizzleExtensions.cs" t="Include" />
+              </e>
+              <e p="PixelPerfectCamera.cs" t="Include" />
+              <e p="PixelSnap.cs" t="Include" />
+              <e p="Scroller.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="RoamingMissions" t="Include">
+          <e p="RandomSpawnData.cs" t="Include" />
+        </e>
+        <e p="Scripts" t="Include">
+          <e p="_Unsorted" t="Include">
+            <e p="BonusRateSlider.cs" t="Include" />
+            <e p="CameraBackgroundContoller.cs" t="Include" />
+            <e p="Campaign.cs" t="Include" />
+            <e p="CinematicStatus.cs" t="Include" />
+            <e p="ContentEditingPanel.cs" t="Include" />
+            <e p="ContentLibrary.cs" t="Include" />
+            <e p="CooldownMap.cs" t="Include" />
+            <e p="CustomeSceneLoader.cs" t="Include" />
+            <e p="CutsceneController.cs" t="Include" />
+            <e p="CutsceneData.cs" t="Include" />
+            <e p="CutsceneTestScene.cs" t="Include" />
+            <e p="DatabaseEntry.cs" t="Include" />
+            <e p="DefaultCampaignManager.cs" t="Include" />
+            <e p="DialogChoicePanel.cs" t="Include" />
+            <e p="DifficultyModifier.cs" t="Include" />
+            <e p="DirectionArrow.cs" t="Include" />
+            <e p="DirectionSelector.cs" t="Include" />
+            <e p="DisplayTileTypeTags.cs" t="Include" />
+            <e p="EditCampaignPanel.cs" t="Include" />
+            <e p="EditSkillInputFieldController.cs" t="Include" />
+            <e p="EditSkillPanel.cs" t="Include" />
+            <e p="EditTileStatsDisplay.cs" t="Include" />
+            <e p="EditTileTypesPanel.cs" t="Include" />
+            <e p="EditTileTypeSprite.cs" t="Include" />
+            <e p="ExperienceModel.cs" t="Include" />
+            <e p="FilePath.cs" t="Include" />
+            <e p="FileSelectHandler.cs" t="Include" />
+            <e p="GameOverPanel.cs" t="Include" />
+            <e p="GameState.cs" t="Include" />
+            <e p="GenerateDemoCampaign.cs" t="Include" />
+            <e p="Globals.cs" t="Include" />
+            <e p="Glossary.cs" t="Include" />
+            <e p="IDisplayInfo.cs" t="Include" />
+            <e p="InventoryPanel.cs" t="Include" />
+            <e p="ITileTypeDataPanel.cs" t="Include" />
+            <e p="IUseable.cs" t="Include" />
+            <e p="KeyBindingHelper.cs" t="Include" />
+            <e p="KeyBindingNames.cs" t="Include" />
+            <e p="LineTest.cs" t="Include" />
+            <e p="LoadCampaignCreationPanel.cs" t="Include" />
+            <e p="MapCoords.cs" t="Include" />
+            <e p="MenuIconPanel.cs" t="Include" />
+            <e p="MissionHandler.cs" t="Include" />
+            <e p="MissionLabel.cs" t="Include" />
+            <e p="MissionListContainer.cs" t="Include" />
+            <e p="MissionObjectivesPanel.cs" t="Include" />
+            <e p="ModifierPanel.cs" t="Include" />
+            <e p="MovementDataObject.cs" t="Include" />
+            <e p="MovementType.cs" t="Include" />
+            <e p="OnMouseOver.cs" t="Include" />
+            <e p="Party.cs" t="Include" />
+            <e p="PlayerController.cs" t="Include" />
+            <e p="PlayerSettings.cs" t="Include" />
+            <e p="PlayingAnimationInputState.cs" t="Include" />
+            <e p="PropertyTagMap.cs" t="Include" />
+            <e p="PublicEventDisplayObject.cs" t="Include" />
+            <e p="PublicEventPanel.cs" t="Include" />
+            <e p="RebindState.cs" t="Include" />
+            <e p="RelationshipButton.cs" t="Include" />
+            <e p="RelationshipPanel.cs" t="Include" />
+            <e p="RelationshipSceneInputState.cs" t="Include" />
+            <e p="ResistanceLevel.cs" t="Include" />
+            <e p="SavedDatabase.cs" t="Include" />
+            <e p="ShopMenuPanel.cs" t="Include" />
+            <e p="ShopsDetailsPanel.cs" t="Include" />
+            <e p="ShopSellPanel.cs" t="Include" />
+            <e p="ShopsListPanel.cs" t="Include" />
+            <e p="SingleTargetData.cs" t="Include" />
+            <e p="SkillButton.cs" t="Include" />
+            <e p="SkillTooltipPanel.cs" t="Include" />
+            <e p="SpritePreviewObject.cs" t="Include" />
+            <e p="SpriteTransitionTest.cs" t="Include" />
+            <e p="StatContianerType.cs" t="Include" />
+            <e p="StatDataObject.cs" t="Include" />
+            <e p="Talent.cs" t="Include" />
+            <e p="TargetTypeEditData.cs" t="Include" />
+            <e p="TeleportCombatNode.cs" t="Include" />
+            <e p="TileEffectSprite.cs" t="Include" />
+            <e p="TileTageDataObject.cs" t="Include" />
+            <e p="TileTypeDataContainer.cs" t="Include" />
+            <e p="ToolBarData.cs" t="Include" />
+            <e p="TurnOrderIcon.cs" t="Include" />
+            <e p="WorldEnchantmentCombatNode.cs" t="Include" />
+            <e p="WorldMapInputState.cs" t="Include" />
+            <e p="WorldMapLocationInfoPanel.cs" t="Include" />
+            <e p="WorldMapLocationMenu.cs" t="Include" />
+            <e p="WorldMapMenu.cs" t="Include" />
+            <e p="WorldMapUIManager.cs" t="Include" />
+          </e>
+          <e p="Actor" t="Include">
+            <e p="Actor.cs" t="Include" />
+            <e p="ActorController.cs" t="Include" />
+            <e p="ActorData.cs" t="Include" />
+            <e p="ActorPlan.txt" t="Include" />
+            <e p="Direction.cs" t="Include" />
+            <e p="Job.cs" t="Include" />
+            <e p="StatsContainer.cs" t="Include" />
+            <e p="StatTypes.cs" t="Include" />
+          </e>
+          <e p="AISystems" t="Include">
+            <e p="AIAction.cs" t="Include" />
+            <e p="AIController.cs" t="Include" />
+            <e p="AIGoal.cs" t="Include" />
+            <e p="AIGoalActionAndMove.cs" t="Include" />
+            <e p="AIGoalMoveTowardsPlayer.cs" t="Include" />
+            <e p="AttackEnemyAction.cs" t="Include" />
+            <e p="MoveToPlayerAction.cs" t="Include" />
+          </e>
+          <e p="AnimationSystem" t="Include">
+            <e p="AnimationObject.cs" t="Include" />
+          </e>
+          <e p="AudioManagement" t="Include">
+            <e p="BGMController.cs" t="Include" />
+            <e p="MusicManager.cs" t="Include" />
+            <e p="SFXController.cs" t="Include" />
+          </e>
+          <e p="BaseManagement" t="Include">
+            <e p="BaseManager.cs" t="Include" />
+            <e p="BaseUI.cs" t="Include" />
+          </e>
+          <e p="Board" t="Include">
+            <e p="Tile.cs" t="Include" />
+            <e p="TileSelction.cs" t="Include" />
+            <e p="TileTypes.cs" t="Include" />
+          </e>
+          <e p="Buff" t="Include">
+            <e p="Buff.cs" t="Include" />
+            <e p="BuffContainer.cs" t="Include" />
+            <e p="BuffEffect.cs" t="Include" />
+            <e p="BuffEffects" t="Include">
+              <e p="AddSkillEffectBuffEffect.cs" t="Include" />
+              <e p="ApplyBuffOnTurnStartEffect.cs" t="Include" />
+              <e p="ApplyLinkedBuffEffect.cs" t="Include" />
+              <e p="AuraBuffEffect.cs" t="Include" />
+              <e p="BanishEffect.cs" t="Include" />
+              <e p="BonusDamageOnAttackBuffEffect.cs" t="Include" />
+              <e p="BonusTagEffect.cs" t="Include" />
+              <e p="ChangeMovementType.cs" t="Include" />
+              <e p="ChangeSpriteBuffEffect.cs" t="Include" />
+              <e p="FlatStatBuffEffect.cs" t="Include" />
+              <e p="LearnSkillBuffEffect.cs" t="Include" />
+              <e p="LinkBuffEffect.cs" t="Include" />
+              <e p="LinkedBuffBuffEffect.cs" t="Include" />
+              <e p="ReactionEffects" t="Include">
+                <e p="UseSkillReactionEffect.cs" t="Include" />
+              </e>
+              <e p="RedirectCombatBuffEffect.cs" t="Include" />
+              <e p="ScalingStatBuffEffect.cs" t="Include" />
+              <e p="SkillCostBuffEffects" t="Include">
+                <e p="AddSkillCostBuffEffect.cs" t="Include" />
+                <e p="ModifyStatCostBuffEffect.cs" t="Include" />
+                <e p="SkillCostModifyType.cs" t="Include" />
+              </e>
+              <e p="SkillOnDeathBuffEffect.cs" t="Include" />
+              <e p="StanceBuffEffect.cs" t="Include" />
+              <e p="StatBuff.cs" t="Include" />
+              <e p="SwitchJobsEffect.cs" t="Include" />
+              <e p="TransformBuffEffect.cs" t="Include" />
+            </e>
+            <e p="ChangePerTurnBuffEffect.cs" t="Include" />
+          </e>
+          <e p="Campaign" t="Include">
+            <e p="CutsceneDataContianer.cs" t="Include" />
+            <e p="EffectMapsDataContainer.cs" t="Include" />
+            <e p="ItemDataContainer.cs" t="Include" />
+            <e p="JobDataState.cs" t="Include" />
+            <e p="JobsDataContainer.cs" t="Include" />
+            <e p="MapDataContainer.cs" t="Include" />
+            <e p="MissionState.cs" t="Include" />
+            <e p="PropertyMapsContainer.cs" t="Include" />
+            <e p="TileDatabaseContainer.cs" t="Include" />
+          </e>
+          <e p="Combat" t="Include">
+            <e p="Combat.cs" t="Include" />
+            <e p="CombatNodes" t="Include">
+              <e p="AddEventCombatNode.cs" t="Include" />
+              <e p="AddInteractionCombatNode.cs" t="Include" />
+              <e p="ApplyTileEffectCombatNode.cs" t="Include" />
+              <e p="BuffCombatNode.cs" t="Include" />
+              <e p="ChangeTileEffectCombatNode.cs" t="Include" />
+              <e p="CombatNode.cs" t="Include" />
+              <e p="ConjureItemInventoryCombatNode.cs" t="Include" />
+              <e p="ConsumeableCombatNode.cs" t="Include" />
+              <e p="HealthChangeCombatNode.cs" t="Include" />
+              <e p="RemoveBuffCombatNode.cs" t="Include" />
+              <e p="ReviveEffectCombatNode.cs" t="Include" />
+              <e p="StealingCombatNodes" t="Include">
+                <e p="StealCreditsCombatNode.cs" t="Include" />
+                <e p="StealEquipmentSlotCombatNode.cs" t="Include" />
+                <e p="StealInventoryItemCombatNode.cs" t="Include" />
+              </e>
+              <e p="SummonCombatNode.cs" t="Include" />
+              <e p="TempSummonCombatNode.cs" t="Include" />
+            </e>
+          </e>
+          <e p="Conditionals" t="Include">
+            <e p="Conditional.cs" t="Include" />
+            <e p="MatchingTagConditional.cs" t="Include" />
+            <e p="RandomRollConditional.cs" t="Include" />
+            <e p="StatThresholdConditional.cs" t="Include" />
+          </e>
+          <e p="Containers" t="Include">
+            <e p="BaseComponents" t="Include">
+              <e p="AddTagToSkillBaseComponent.cs" t="Include" />
+              <e p="ChangeStatComponent.cs" t="Include" />
+              <e p="IncreasePotencyOfSkillComponent.cs" t="Include" />
+              <e p="TileChangeComponent.cs" t="Include" />
+            </e>
+          </e>
+          <e p="ContentCreation" t="Include">
+            <e p="CreationSuiteManager.cs" t="Include" />
+            <e p="MapCreationTile.cs" t="Include" />
+            <e p="MapEditingPanel.cs" t="Include" />
+            <e p="MapEditingState.cs" t="Include" />
+            <e p="TilePanel.cs" t="Include" />
+          </e>
+          <e p="CutScenes" t="Include">
+            <e p="ChoiceAction.cs" t="Include" />
+            <e p="CutScene.cs" t="Include" />
+            <e p="CutSceneAction.cs" t="Include" />
+            <e p="CutsceneActionChangeBGM.cs" t="Include" />
+            <e p="CutsceneActionChangeCameraPosition.cs" t="Include" />
+            <e p="CutsceneActionList.cs" t="Include" />
+            <e p="CutsceneActionMoveSprite.cs" t="Include" />
+            <e p="CutsceneActionSkillAnimation.cs" t="Include" />
+            <e p="CutsceneActionTileEffect.cs" t="Include" />
+            <e p="CutsceneActionTransitionToBattle.cs" t="Include" />
+            <e p="CutsceneInputState.cs" t="Include" />
+            <e p="DialogueAction.cs" t="Include" />
+          </e>
+          <e p="Flags" t="Include">
+            <e p="FlagBool.cs" t="Include" />
+            <e p="FlagHasCharacter.cs" t="Include" />
+            <e p="FlagHasItem.cs" t="Include" />
+            <e p="FlagInt.cs" t="Include" />
+            <e p="FlagMissionTurn.cs" t="Include" />
+            <e p="Flags.cs" t="Include" />
+            <e p="FlagWithinLevelRange.cs" t="Include" />
+          </e>
+          <e p="Input" t="Include">
+            <e p="FSM" t="Include">
+              <e p="BaseInputState.cs" t="Include" />
+              <e p="BoardInputs" t="Include">
+                <e p="AbilityInUseState.cs" t="Include" />
+                <e p="AbilitySelectState.cs" t="Include" />
+                <e p="ActionMenuState.cs" t="Include" />
+                <e p="BlockUserInputState.cs" t="Include" />
+                <e p="BoardDialogInputState.cs" t="Include" />
+                <e p="BoardInputState.cs" t="Include" />
+                <e p="CharacterInfoState.cs" t="Include" />
+                <e p="CharacterPlacementState.cs" t="Include" />
+                <e p="CPUInputState.cs" t="Include" />
+                <e p="CutsceneChoiceState.cs" t="Include" />
+                <e p="HotkeyMenuState.cs" t="Include" />
+                <e p="MoveSelectionState.cs" t="Include" />
+                <e p="OptionsMenuState.cs" t="Include" />
+                <e p="PlaceUnitState.cs" t="Include" />
+                <e p="RewardState.cs" t="Include" />
+                <e p="SelectWaitDirectionState.cs" t="Include" />
+                <e p="UnitSelectedState.cs" t="Include" />
+                <e p="UsersTurnState.cs" t="Include" />
+              </e>
+              <e p="CreationSuiteInput" t="Include">
+                <e p="CreationSuiteInputState.cs" t="Include" />
+                <e p="EditMapInputState.cs" t="Include" />
+              </e>
+              <e p="CutsceneInput" t="Include">
+                <e p="CutsceneInput.cs" t="Include" />
+              </e>
+              <e p="InputFSM.cs" t="Include" />
+              <e p="InputState.cs" t="Include" />
+              <e p="WorldMapInputs" t="Include">
+                <e p="NavigateWorldInputState.cs" t="Include" />
+                <e p="WorldLocationInputState.cs" t="Include" />
+              </e>
+            </e>
+            <e p="HotKeys.cs" t="Include" />
+            <e p="InputHandler.cs" t="Include" />
+          </e>
+          <e p="Interactions" t="Include">
+            <e p="EventInteraction.cs" t="Include" />
+            <e p="Interaction.cs" t="Include" />
+            <e p="InteractionObjectiveComponent.cs" t="Include" />
+            <e p="InteractionRequirements.cs" t="Include" />
+            <e p="ObjectiveInteraction.cs" t="Include" />
+          </e>
+          <e p="Item" t="Include">
+            <e p="Activateableitem.cs" t="Include" />
+            <e p="ChargeItem.cs" t="Include" />
+            <e p="ConsumableItem.cs" t="Include" />
+            <e p="Equipment.cs" t="Include" />
+            <e p="EquipmentSlot.cs" t="Include" />
+            <e p="EquippableItem.cs" t="Include" />
+            <e p="Inventory.cs" t="Include" />
+            <e p="Item.cs" t="Include" />
+            <e p="ItemContainer.cs" t="Include" />
+            <e p="ItemType.cs" t="Include" />
+          </e>
+          <e p="Job" t="Include">
+            <e p="AdvancedJob.cs" t="Include" />
+            <e p="AdvancedJobs" t="Include">
+              <e p="ItemJobReq.cs" t="Include" />
+              <e p="JobReq.cs" t="Include" />
+              <e p="MissionCompleteJobReq.cs" t="Include" />
+              <e p="TalentJobReq.cs" t="Include" />
+            </e>
+            <e p="Discipline.cs" t="Include" />
+            <e p="Race.cs" t="Include" />
+          </e>
+          <e p="Managers" t="Include">
+            <e p="ActorSpawner.cs" t="Include" />
+            <e p="BoardManager.cs" t="Include" />
+            <e p="PreviewManager.cs" t="Include" />
+            <e p="SaveLoadManager.cs" t="Include" />
+            <e p="TalentPanelManager.cs" t="Include" />
+            <e p="TurnManager.cs" t="Include" />
+          </e>
+          <e p="MapEditor" t="Include">
+            <e p="DeleteDialog.cs" t="Include" />
+            <e p="MapDataModel.cs" t="Include" />
+            <e p="MapEditorManager.cs" t="Include" />
+            <e p="SaveDialog.cs" t="Include" />
+            <e p="TileButton.cs" t="Include" />
+          </e>
+          <e p="MapEnchantmentSystem" t="Include">
+            <e p="Abstract Models" t="Include">
+              <e p="ActorMapEnchantmentEffect.cs" t="Include" />
+              <e p="MapEnchantment.cs" t="Include" />
+              <e p="TileMapEnchantmentEffect.cs" t="Include" />
+            </e>
+            <e p="ActorEffects" t="Include">
+              <e p="ActorBuffMapEnchantmentEffect.cs" t="Include" />
+            </e>
+            <e p="TileMapEffect" t="Include">
+              <e p="TileMapBuffEnchantmentEffect.cs" t="Include" />
+              <e p="TileMapPropertyEnchantmentEffect.cs" t="Include" />
+            </e>
+          </e>
+          <e p="Mission" t="Include">
+            <e p="Mission.cs" t="Include" />
+            <e p="MissionEvents" t="Include">
+              <e p="AddObjectiveEvent.cs" t="Include" />
+              <e p="CutsceneEvent.cs" t="Include" />
+              <e p="Event.cs" t="Include" />
+              <e p="SkillUsedEvent.cs" t="Include" />
+              <e p="SummonUnitEvent.cs" t="Include" />
+            </e>
+            <e p="ObjectiveComponents" t="Include">
+              <e p="AssassinateObjectiveComponent.cs" t="Include" />
+              <e p="EliminateAllObjectiveComponent.cs" t="Include" />
+              <e p="FailStates" t="Include">
+                <e p="AllAlliesDeadFailState.cs" t="Include" />
+                <e p="EscortActorDiedFailState.cs" t="Include" />
+                <e p="TurnNumberFailState.cs" t="Include" />
+              </e>
+              <e p="ObjectiveComponent.cs" t="Include" />
+              <e p="SiegePointObjectComponent.cs" t="Include" />
+              <e p="TurnNumberObjectiveComponent.cs" t="Include" />
+            </e>
+            <e p="Reward" t="Include">
+              <e p="Reward.cs" t="Include" />
+              <e p="RewardTable.cs" t="Include" />
+              <e p="RewardTypes" t="Include">
+                <e p="CharacterReward.cs" t="Include" />
+                <e p="CreditReward.cs" t="Include" />
+                <e p="ExperienceReward.cs" t="Include" />
+                <e p="ItemReward.cs" t="Include" />
+                <e p="JPReward.cs" t="Include" />
+                <e p="MissionReward.cs" t="Include" />
+                <e p="RelationshipReward.cs" t="Include" />
+              </e>
+            </e>
+          </e>
+          <e p="Pathfinding" t="Include">
+            <e p="BFS.cs" t="Include" />
+            <e p="Dijkstra.cs" t="Include" />
+            <e p="Pathfinding.cs" t="Include" />
+          </e>
+          <e p="RelationshipSystem" t="Include">
+            <e p="Relationship.cs" t="Include" />
+            <e p="RelationshipEntry.cs" t="Include" />
+            <e p="RelationshipLevel.cs" t="Include" />
+            <e p="RelationshipMap.cs" t="Include" />
+          </e>
+          <e p="SaveSystem" t="Include">
+            <e p="SavedFile.cs" t="Include" />
+            <e p="SaveStateBase.cs" t="Include" />
+            <e p="SaveStateMission.cs" t="Include" />
+            <e p="SaveStateWorldMap.cs" t="Include" />
+          </e>
+          <e p="Shops" t="Include">
+            <e p="ItemShop.cs" t="Include" />
+            <e p="Shop.cs" t="Include" />
+            <e p="ShopContainer.cs" t="Include" />
+          </e>
+          <e p="Skills" t="Include">
+            <e p="Effects" t="Include">
+              <e p="AddEffectToMapSkillEffect.cs" t="Include" />
+              <e p="AddInteractionSkillEffect.cs" t="Include" />
+              <e p="ApplyBuffEffect.cs" t="Include" />
+              <e p="ApplyTileEffectSkillEffect.cs" t="Include" />
+              <e p="BuffEffects" t="Include">
+                <e p="RemoveBuffSkillEffect.cs" t="Include" />
+              </e>
+              <e p="ChangeHealthEffect.cs" t="Include" />
+              <e p="ChangeTargetPositionSkillEffect.cs" t="Include" />
+              <e p="ChangeTileTypeEffect.cs" t="Include" />
+              <e p="ConjureItemEquipmentSkillEffect.cs" t="Include" />
+              <e p="ConjureItemInventorySkillEffect.cs" t="Include" />
+              <e p="DrainHealth.cs" t="Include" />
+              <e p="EquipItem.cs" t="Include" />
+              <e p="LinkedSummonSkillEffect.cs" t="Include" />
+              <e p="MapEnchantmentSkillEffect.cs" t="Include" />
+              <e p="ReviveActor.cs" t="Include" />
+              <e p="StealEffects" t="Include">
+                <e p="StealCreditsSkillEffect.cs" t="Include" />
+                <e p="StealEquipmentSkillEffect.cs" t="Include" />
+                <e p="StealInventorySkillEffect.cs" t="Include" />
+              </e>
+              <e p="SummonEffect.cs" t="Include" />
+              <e p="TeleportUnitSkillEffect.cs" t="Include" />
+              <e p="TempSummonSkillEffet.cs" t="Include" />
+              <e p="UseSkillEffect.cs" t="Include" />
+            </e>
+            <e p="ITargetable.cs" t="Include" />
+            <e p="NextSkillNode.cs" t="Include" />
+            <e p="Skill.cs" t="Include" />
+            <e p="SkillCosts" t="Include">
+              <e p="SkillCost.cs" t="Include" />
+              <e p="SkillCostBuff.cs" t="Include" />
+              <e p="SkillCostItemEquipped.cs" t="Include" />
+              <e p="SkillCostItemInventory.cs" t="Include" />
+              <e p="SkillCostStat.cs" t="Include" />
+            </e>
+            <e p="SkillEffect.cs" t="Include" />
+            <e p="Targeting" t="Include">
+              <e p="AoeTarget.cs" t="Include" />
+              <e p="BlockTarget.cs" t="Include" />
+              <e p="ConeTarget.cs" t="Include" />
+              <e p="Filtering" t="Include">
+                <e p="FactionTargeting.cs" t="Include" />
+                <e p="TargetFiltering.cs" t="Include" />
+              </e>
+              <e p="LineTarget.cs" t="Include" />
+              <e p="RandomTargeting.cs" t="Include" />
+              <e p="SingleTarget.cs" t="Include" />
+            </e>
+          </e>
+          <e p="TileSystem" t="Include">
+            <e p="Tile Effect System" t="Include">
+              <e p="AuraTileEffect.cs" t="Include" />
+              <e p="EffectComponents" t="Include">
+                <e p="AddAttribute.cs" t="Include" />
+                <e p="AddBuffTileEffectComponent.cs" t="Include" />
+                <e p="AdjustMovementCostTileEffectComponent.cs" t="Include" />
+                <e p="ChangeHPComponent.cs" t="Include" />
+                <e p="ChangeTileTypeTileEffectCompontent.cs" t="Include" />
+                <e p="RemoveAttribute.cs" t="Include" />
+                <e p="RemoveBuffTileEffectComponent.cs" t="Include" />
+                <e p="TileEffectComponent.cs" t="Include" />
+              </e>
+              <e p="Length" t="Include">
+                <e p="CounterLimit.cs" t="Include" />
+                <e p="EffectLengthBehavior.cs" t="Include" />
+                <e p="NoLengthLimit.cs" t="Include" />
+              </e>
+              <e p="Spread" t="Include">
+                <e p="EffectSpreadBehavior.cs" t="Include" />
+                <e p="NoSpread.cs" t="Include" />
+                <e p="RandomNeighborSpread.cs" t="Include" />
+              </e>
+              <e p="TileEffect.cs" t="Include" />
+            </e>
+            <e p="TileData.cs" t="Include" />
+            <e p="TileNode.cs" t="Include" />
+          </e>
+          <e p="UI" t="Include">
+            <e p="AbilityInUseLabel.cs" t="Include" />
+            <e p="ActionMenu.cs" t="Include" />
+            <e p="BarDisplayPanel.cs" t="Include" />
+            <e p="BattleUIManager.cs" t="Include" />
+            <e p="BuffDisplayWrapper.cs" t="Include" />
+            <e p="BuffIconDisplay.cs" t="Include" />
+            <e p="BuffPanel.cs" t="Include" />
+            <e p="CharacterEditorPanel.cs" t="Include" />
+            <e p="CharacterInfoPanel.cs" t="Include" />
+            <e p="CharacterInfoPreviewPanel.cs" t="Include" />
+            <e p="CharacterSelectButton.cs" t="Include" />
+            <e p="CharacterSelectInfoPanel.cs" t="Include" />
+            <e p="DialogPanel.cs" t="Include" />
+            <e p="EquipmentPanel.cs" t="Include" />
+            <e p="HotkeyMenu.cs" t="Include" />
+            <e p="HotkeyMenuButton.cs" t="Include" />
+            <e p="IHotbar.cs" t="Include" />
+            <e p="LoadPanel.cs" t="Include" />
+            <e p="MainMenu" t="Include">
+              <e p="MainMenuManager.cs" t="Include" />
+            </e>
+            <e p="MainPanel.cs" t="Include" />
+            <e p="MapEditorPanel.cs" t="Include" />
+            <e p="MissionInfoPanel.cs" t="Include" />
+            <e p="MissionSelectionPanel.cs" t="Include" />
+            <e p="NewGameSelection.cs" t="Include" />
+            <e p="OptionsMenu.cs" t="Include" />
+            <e p="PartySelectionPanel.cs" t="Include" />
+            <e p="PreviewUIPanel.cs" t="Include" />
+            <e p="RewardPanel.cs" t="Include" />
+            <e p="SaveGamePanel.cs" t="Include" />
+            <e p="Selector.cs" t="Include" />
+            <e p="SkillDescriptPanel.cs" t="Include" />
+            <e p="SkillPanel.cs" t="Include" />
+            <e p="StatDisplayWrapper.cs" t="Include" />
+            <e p="TileSelectionPanel.cs" t="Include" />
+            <e p="ToolbarButton.cs" t="Include" />
+            <e p="ToolbarPanel.cs" t="Include" />
+            <e p="TurnOrderPanel.cs" t="Include" />
+          </e>
+          <e p="WorldMap" t="Include">
+            <e p="Bar.cs" t="Include" />
+            <e p="GameObject" t="Include">
+              <e p="WorldMapLocationGameObject.cs" t="Include" />
+              <e p="WorldMapTileGameObject.cs" t="Include" />
+            </e>
+            <e p="Locations" t="Include">
+              <e p="LocationComponent" t="Include">
+                <e p="BarLocationComponent.cs" t="Include" />
+                <e p="BaseComponent.cs" t="Include" />
+                <e p="LocationComponent.cs" t="Include" />
+                <e p="ShopComponent.cs" t="Include" />
+                <e p="TravelLocationComponent.cs" t="Include" />
+              </e>
+              <e p="LocationNode.cs" t="Include" />
+            </e>
+            <e p="WorldAvatar.cs" t="Include" />
+            <e p="WorldMap.cs" t="Include" />
+            <e p="WorldMapButton.cs" t="Include" />
+            <e p="WorldMapManager.cs" t="Include" />
+            <e p="WorldMapSelector.cs" t="Include" />
+            <e p="WorldMapTile.cs" t="Include" />
+          </e>
+        </e>
+        <e p="SpriteOutliner" t="Include">
+          <e p="OutlineShader.shader" t="Include" />
+          <e p="SpriteOutline.cs" t="Include" />
+        </e>
+        <e p="TextMesh Pro" t="Include">
+          <e p="Resources" t="Include">
+            <e p="LineBreaking Following Characters.txt" t="Include" />
+            <e p="LineBreaking Leading Characters.txt" t="Include" />
+            <e p="Shaders" t="Include">
+              <e p="TMP_Bitmap-Custom-Atlas.shader" t="Include" />
+              <e p="TMP_Bitmap-Mobile.shader" t="Include" />
+              <e p="TMP_Bitmap.shader" t="Include" />
+              <e p="TMP_SDF Overlay.shader" t="Include" />
+              <e p="TMP_SDF-Mobile Masking.shader" t="Include" />
+              <e p="TMP_SDF-Mobile Overlay.shader" t="Include" />
+              <e p="TMP_SDF-Mobile.shader" t="Include" />
+              <e p="TMP_SDF-Surface-Mobile.shader" t="Include" />
+              <e p="TMP_SDF-Surface.shader" t="Include" />
+              <e p="TMP_SDF.shader" t="Include" />
+              <e p="TMP_Sprite.shader" t="Include" />
+              <e p="TMPro.cginc" t="Include" />
+              <e p="TMPro_Properties.cginc" t="Include" />
+              <e p="TMPro_Surface.cginc" t="Include" />
+            </e>
+          </e>
+          <e p="Sprites" t="Include">
+            <e p="EmojiOne Attribution.txt" t="Include" />
+          </e>
+        </e>
+        <e p="TutorialPanel.cs" t="Include" />
+      </e>
+      <e p="Books By Babel.sln" t="IncludeFlat" />
+      <e p="obj" t="ExcludeRecursive" />
+      <e p="Packages" t="ExcludeRecursive" />
+      <e p="Temp\bin" t="ExcludeRecursive" />
+    </e>
+    <e p="C:\Users\Tyler\.Rider2019.2\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Tyler\.Rider2019.2\system\resharper-host\local\Transient\ReSharperHost\v192\SolutionCaches\_Books By Babel.1782259481.00" t="ExcludeRecursive" />
+  </component>
+</project>
